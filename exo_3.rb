@@ -1,4 +1,4 @@
 variable  =  "Bonjour, monde!"
-#met  variable
-imprimer  "Et avec une voix sexy, ca donne:"
-met  variable
+#puts  variable
+print  "Et avec une voix sexy, ca donne:"
+puts  variable
