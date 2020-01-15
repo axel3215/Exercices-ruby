@@ -17,6 +17,6 @@ puts "Ok, c'est faux alors !" # imprime le texte
 
 puts "C'est drôle ça, faisons-en plus :" # imprime le texte
 
-puts "Est-ce que 5 est plus grand que -2 ? #{5 > -2}" # imprime le texte et affiche la réponse à la question
-puts "Est-ce que 5 est supérieur ou égal à -2 ? #{5 >= -2}" # imprime le texte et afficher la réponse à la question
-puts "Est-ce que 5 est inférieur ou égal à -2 ? #{5 <= -2}" # imprime le texte et afficher la réponse à la question
+puts "Est-ce que 5 est plus grand que -2 ? #{5 > -2}" # imprime le texte et affiche le résultat de l'expression bouleen (résultat vrai ou faux)
+puts "Est-ce que 5 est supérieur ou égal à -2 ? #{5 >= -2}" # imprime le texte et affiche le résultat de l'expression bouleen (résultat vrai ou faux)
+puts "Est-ce que 5 est inférieur ou égal à -2 ? #{5 <= -2}" # imprime le texte et affiche le résultat de l'expression bouleen (résultat vrai ou faux)
