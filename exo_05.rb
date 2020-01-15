@@ -8,7 +8,7 @@ puts 10 * 5 * 11 * 60 * 60 # imprime le texte et affiche le résultat de l'équa
 
 puts "Est-ce que c'est vrai que 3 + 2 < 5 - 7 ?" # imprime le texte
 
-puts 3 + 2 < 5 - 7 # imprime le texte 
+puts 3 + 2 < 5 - 7 # imprime le résultat de l'expression bouleen (le résultat sera vrai ou faux)
 
 puts "Ça fait combien 3 + 2 ? #{3 + 2}" # imprime le texte et afficher le résultat de l'équation
 puts "Ça fait combien 5 - 7 ? #{5 - 7}" # imprime le texte et afficher le résultat de l'équation
