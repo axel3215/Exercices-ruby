@@ -6,7 +6,7 @@ puts "Et en secondes ?" # imprime le texte
 
 puts 10 * 5 * 11 * 60 * 60 # imprime le texte et affiche le résultat de l'équation
 
-puts "Est-ce que c'est vrai que 3 + 2 < 5 - 7 ?" # imprime l'équation et affiche le résultat de l'équation
+puts "Est-ce que c'est vrai que 3 + 2 < 5 - 7 ?" # imprime le texte
 
 puts 3 + 2 < 5 - 7 # imprime le texte 
 
